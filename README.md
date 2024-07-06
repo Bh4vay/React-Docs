@@ -16,21 +16,18 @@ A neat and simple, yet eye catchy mini project made using ReactJS , styled using
 
 To get started with this project, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/React-Docs.git
+# 1. Clone the repository:
+git clone https://github.com/your-username/React-Docs.git
 
-2. Navigate to the project directory:
-  ````bash
-   cd React-Docs
+# 2. Navigate to the project directory:
+cd React-Docs
 
-3. Install the dependencies:
-  ````bash
-   npm i
+# 3. Install the dependencies:
+npm install
 
-4. Start the development server:
-  ````bash
-   npm start
+# 4. Start the development server:
+npm start
 
-5. Open your browser and go to http://localhost:3000.
+# 5. Open your browser and go to http://localhost:3000
+
 
